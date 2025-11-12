@@ -3,7 +3,7 @@
 
 ## MC Studio Homepage
 
-Next, I will walk you through the MC Studio homepage. Some features are less relevant for international developers,so I will only focus on the functions that you will find useful.
+Next, I will walk you through the MC Studio homepage. Some features are less relevant fo developers,so I will only focus on the functions that you will find useful.
 
 ***下面我将带您了解 MC Studio的首页，有些功能对于国际版开发者是不重要的，我只会介绍您用得上的功能***
 
